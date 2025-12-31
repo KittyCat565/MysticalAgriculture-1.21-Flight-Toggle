@@ -2,6 +2,8 @@
 
 About
 Added a toggleable Creative Flight Module. New commands: /mysticalagriculture flight true|false /mysticalagriculture flightdebug /mysticalagriculture flightdebug info Mayfly is now re-synchronized if it is set to false server-side, keeping flight stable. The debug command now works both with and without the info argument.
+Btw, I can’t upload the other files because they’re hidden. If you have any questions, add me on Discord.
+
 
 
 <p align="left">
