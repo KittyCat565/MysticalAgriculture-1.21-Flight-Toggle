@@ -1,6 +1,3 @@
-Modpack-Specific Feature (Create Ultimate Selection 2)
-
-
 # Mystical Agriculture
 
 <p align="left">
